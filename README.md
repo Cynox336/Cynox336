@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cynox!✌<br>🌱 I’m currently learning front-end development<br>⚡ Using -> HTML | CSS | JS | React
+Hi, I'm Cynox!✌<br>🌱 I’m currently learning front-end development<br>⚡ Using -> HTML | CSS | JS | React | C
 
 
 ## 🌐 Socials:
