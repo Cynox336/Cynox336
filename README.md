@@ -38,19 +38,26 @@ I'm currently learning **fullstack development** and building projects with:
 
 ## 📊 GitHub Stats
 
-<!-- Perfil general -->
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cynox336&theme=github_dark&exclude=)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Cynox336&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Cynox336&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+  />
+</p>
 
-<!-- Lenguajes más usados -->
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Cynox336&theme=github_dark&exclude=)
-
-<!-- Commits por repositorio -->
-![Commits per Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cynox336&theme=github_dark&exclude=)
-
-<!-- Gráfico de contribución (últimos años) -->
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/contribs-over-time?username=Cynox336&theme=github_dark&exclude=)
-
----
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Cynox336&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub activity graph"
+    width="95%"
+  />
+</p>
 
 ## 🔥 Currently
 
