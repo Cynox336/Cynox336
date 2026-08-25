@@ -38,34 +38,13 @@ I'm currently learning **fullstack development** and building projects with:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Cynox336&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=Cynox336&theme=github-dark-blue&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Cynox336&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
-    width="95%"
-  />
-</p>
-
-## 🔥 Currently
-
-- Learning fullstack (React + Node + Django).
-- Practicando con proyectos personales y mejorando mi perfil de GitHub.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynox336&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Cynox336&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🔥 Currently
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Learning fullstack with React, Node.js and Django.
+- Building personal projects and improving my GitHub profile.
+
+<!-- Visitor counter removed: another external service that can fail. -->
