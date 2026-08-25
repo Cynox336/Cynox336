@@ -38,11 +38,17 @@ I'm currently learning **fullstack development** and building projects with:
 
 ## 📊 GitHub Stats
 
-<!-- Top languages (más estable que la instancia pública clásica) -->
-![Top Langs](https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=Cynox336&theme=dark&hide_border=true&layout=compact)
+<!-- Perfil general -->
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cynox336&theme=github_dark&exclude=)
 
-<!-- Stats generales (puedes quitarlas si no te gusta cómo quedan) -->
-![GitHub Stats](https://github-readme-stats-plus-theta.vercel.app/api?username=Cynox336&show_icons=true&theme=dark&hide_border=true&count_private=false)
+<!-- Lenguajes más usados -->
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=Cynox336&theme=github_dark&exclude=)
+
+<!-- Commits por repositorio -->
+![Commits per Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cynox336&theme=github_dark&exclude=)
+
+<!-- Gráfico de contribución (últimos años) -->
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/contribs-over-time?username=Cynox336&theme=github_dark&exclude=)
 
 ---
 
