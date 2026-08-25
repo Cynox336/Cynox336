@@ -36,11 +36,14 @@ I'm currently learning **fullstack development** and building projects with:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cynox336&show_icons=true&theme=dark&hide_border=true)
-
----
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cynox336&theme=github_dark"
+    alt="Programming languages by repositories"
+  />
+</p>
 
 ## 🔥 Currently
 
