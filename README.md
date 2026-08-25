@@ -38,7 +38,7 @@ I'm currently learning **fullstack development** and building projects with:
 
 ## 📊 GitHub Languages
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cynox336&theme=github_dark"
     alt="Programming languages by repositories"
